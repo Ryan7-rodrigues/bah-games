@@ -1,6 +1,16 @@
 
 <h1>Bah Games 🎮</h1>   
 
+<h3>Integrantes😎</h3>
+<ul>
+  <li>Nicolas😈</li>  
+  <li>Matheus🫡</li>  
+  <li>Ryan7️⃣</li>  
+</ul> 
+
+<br>
+<br>
+
 <h3>Objetivo 🎯</h3>
 O objetivo do programa é desenvolver um sistema de distribuição de jogos virtuais para a plataforma de
 computadores pessoais(PC), semelhante a Steam.
@@ -33,6 +43,10 @@ Devido a variedade de jogos, o sistema busca atender toda as faixas etárias.
   <li>Lista de Desejados do Usuário;</li>  
   <li>Biblioteca de jogos adiquiridos</li>  
 </ul>  
+
+<br>
+<br>
+
 
 
 
